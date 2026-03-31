@@ -38,7 +38,7 @@ const BarChart = ({ data }) => {
         <div className="w-full h-0.5 bg-[#e3120b]" />
         <div className="w-10 h-2 bg-[#e3120b] mb-1" />
         <h2 className="text-lg font-semibold text-neutral-800 text-left">
-          Escape artists
+          Escape artists tadata
         </h2>
         <p className="text-base text-neutral-800 text-left ">
           Number of laboratory-acquired infections, 1970-2021
